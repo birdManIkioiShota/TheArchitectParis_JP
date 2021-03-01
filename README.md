@@ -21,7 +21,7 @@ The Architect: Parisの日本語化ファイルです．
 <h4>3. resources.assetsの展開</h4>
 
 UnityEX.exeを起動し，『Open archive』からThe Architect Paris/The Architect Paris_Data/resources.assetsを選択し開く．<br>
-ファイルのディレクトリはSteamのプロパティから『ローカルファイルを閲覧』を選択．
+ファイルのディレクトリはSteamのプロパティから『ローカルファイルを閲覧』を選択．<br>
 <img src="https://user-images.githubusercontent.com/44240143/109453000-56816080-7a94-11eb-8937-ed869666d4a7.PNG" width="320px"><br>
 その中から，下の検索バーで『Localization.txt』を探し出し，右クリックして『Export selected』を選択．<br>
 この後リパックで使うので，UnityEXは閉じないこと．<br>
