@@ -10,15 +10,15 @@ The Architect: Parisの日本語化ファイルです．
 自己責任の元ご使用ください．<br>
 以下に導入手順を説明します．
 
-1. Download ZIPから『Localization.txt』を入手．
-2. Unity EXのダウンロード
+<h4>1. Download ZIPから『Localization.txt』を入手．</h4>
+<h4>2. Unity EXのダウンロード</h4>
 
 以下のリンクからUnityEXをダウンロードします．
 このツールは，Unityで用いられる.assetsファイルをアンパック・リパックするために用いられます．
 
 [https://ux.getuploader.com/software_desktop/download/28](https://ux.getuploader.com/software_desktop/download/28)
 
-3. resources.assetsの展開
+<h4>3. resources.assetsの展開</h4>
 
 UnityEX.exeを起動し，『Open archive』からThe Architect Paris/The Architect Paris_Data/resources.assetsを選択し開く．<br>
 ファイルのディレクトリはSteamのプロパティから『ローカルファイルを閲覧』を選択．
@@ -26,12 +26,12 @@ UnityEX.exeを起動し，『Open archive』からThe Architect Paris/The Archit
 その中から，下の検索バーで『Localization.txt』を探し出し，右クリックして『Export selected』を選択．<br>
 この後リパックで使うので，UnityEXは閉じないこと．<br>
 
-4. 日本語化ファイルの適用
+<h4>4. 日本語化ファイルの適用</h4>
 The Architect Paris/The Architect Paris_Data/Unity_Assets_Files/resources/Localization.txt<br>
 というファイルが現れます．このファイルをGithubからダウンロードした『Localization.txt』で置換します．<br>
 その後，UnityEX上で『Import files』をクリックしてリパックします．<br>
 
-リパックが終了すると日本語化作業は終了です．お疲れさまでした．
+リパックが終了すると日本語化作業は終了です．お疲れさまでした．<br>
 <img src="https://user-images.githubusercontent.com/44240143/109453030-64cf7c80-7a94-11eb-926c-09ebcf295931.jpg" width="400px">
 
 ## 許諾
