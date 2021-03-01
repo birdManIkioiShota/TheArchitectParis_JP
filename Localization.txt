@@ -28,20 +28,20 @@ HELP_STRATMAP_Options_TITLE;設定;Options;;;;;;;;;;
 HELP_STRATMAP_Options_TEXT;設定メニューを開く (設定、セーブ/ロード、メニューに戻る)。;Accédez au menu d'options du jeu (réglages, sauvegardes, retour au menu principal).;;;;;;;;;;
 HELP_STRATMAP_Options_TIP;画面の様々な部分にカーソルを合わせることで、ヘルプを表示します。<style=GREET_TIP_INPUT>£0£</style>を押すか<sprite=18>をクリックしヘルプ機能を閉じます。;Passez la souris sur les différents éléments pour obtenir de l'aide. Appuyez sur <style=HELP_TIP_INPUT>£0£</style> ou cliquez sur <sprite=18> pour fermer l'Aide.;;;;;;;;;;
 HELP_CITYVIEW_WELCOME_TITLE;シティビューへようこそ!;Bienvenue dans la Vue Ville !;;;;;;;;;;
-HELP_CITYVIEW_WELCOME_TEXT;Here you are, all set to work in Paris! You are the architect who will change the City of Lights!\n\nIn the <style=GREET_IMPORT>City View</style>, you will explore your playground and decide which blocks you want to work on.\n\nHere, you will also gather information on <style=GREET_IMPORT>Main Projects</style> and <style=GREET_IMPORT>Landmarks</style>.\n\nWhen you feel ready to start changing the city, select a block and open it in the <style=GREET_IMPORT>Drawing Board</style> by clicking on <sprite=6>\n;Ça y est, vous voilà installé·e à Paris ! \nVous êtes l'architecte qui va changer la Ville Lumière !\n\nDans la <style=GREET_IMPORT>Vue Ville</style>, vous pouvez explorer votre terrain de jeu et choisir les îlots sur lesquels vous allez intervenir.\n\nIci, vous aurez également des informations sur les <style=GREET_IMPORT>Projets Majeurs</style> et les <style=GREET_IMPORT>Monuments</style> présents dans chacun des Quartiers.\n\nLorsque vous serez prêt à vous lancer, sélectionnez un îlot en cliquant dessus et ouvrez-le dans la <style=GREET_IMPORT>Table à Dessin</style> en cliquant sur <sprite=6>.;;;;;;;;;;
-HELP_CITYVIEW_WELCOME_TIP;To move around, use <style=GREET_TIP_INPUT>£0£</style>, <style=GREET_TIP_INPUT>£1£</style>, <style=GREET_TIP_INPUT>£2£</style> and <style=GREET_TIP_INPUT>£3£</style>.\n<style=GREET_TIP_INPUT>£4£</style> to accelerate.\n<style=GREET_TIP_INPUT>£5£</style> and <style=GREET_TIP_INPUT>£6£</style> to turn left and right.\n<style=GREET_IMPORT>RIGHT-CLICK</style> to rotate up/down.\nUse <style=GREET_IMPORT>MOUSE WHEEL</style> to zoom in/out (also with <style=GREET_TIP_INPUT>£7£</style> and <style=GREET_TIP_INPUT>£8£</style>).\n\n<style=GREET_TIP_INPUT>£9£</style> show/hide selection outline.;Pour vous déplacer ici, utilisez <style=GREET_TIP_INPUT>£0£</style>, <style=GREET_TIP_INPUT>£1£</style>, <style=GREET_TIP_INPUT>£2£</style> et <style=GREET_TIP_INPUT>£3£</style>.\n<style=GREET_TIP_INPUT>£4£</style> pour accélérer le mouvement. \n<style=GREET_TIP_INPUT>£5£</style> et <style=GREET_TIP_INPUT>£6£</style> pour pivoter à gauche et à droite.\n<style=GREET_IMPORT>CLIC DROIT</style> pour la rotation haut/bas.\nLa <style=GREET_IMPORT>MOLETTE</style> sert à zoomer et dézoomer (ainsi que <style=GREET_TIP_INPUT>£7£</style> et <style=GREET_TIP_INPUT>£8£</style>).\n\n<style=GREET_TIP_INPUT>£9£</style> affiche/masque le contour de sélection.;;;;;;;;;;
-HELP_CITYVIEW_Time_TITLE;Time;Heure;;;;;;;;;;
+HELP_CITYVIEW_WELCOME_TEXT;パリで働く準備が整いました!あなたは光の街を変える建築家です!\n\n<style=GREET_IMPORT>シティビュー</style>では、マップを探索し、編集するブロックを選択します。\n\nさらに、<style=GREET_IMPORT>メインプロジェクト</style>や<style=GREET_IMPORT>ランドマーク</style>に関する情報を収集します。\n\n編集するブロックを決定したら、ブロックを選択し<sprite=6>をクリックして<style=GREET_IMPORT>製図板</style>を開きます。;Ça y est, vous voilà installé·e à Paris ! \nVous êtes l'architecte qui va changer la Ville Lumière !\n\nDans la <style=GREET_IMPORT>Vue Ville</style>, vous pouvez explorer votre terrain de jeu et choisir les îlots sur lesquels vous allez intervenir.\n\nIci, vous aurez également des informations sur les <style=GREET_IMPORT>Projets Majeurs</style> et les <style=GREET_IMPORT>Monuments</style> présents dans chacun des Quartiers.\n\nLorsque vous serez prêt à vous lancer, sélectionnez un îlot en cliquant dessus et ouvrez-le dans la <style=GREET_IMPORT>Table à Dessin</style> en cliquant sur <sprite=6>.;;;;;;;;;;
+HELP_CITYVIEW_WELCOME_TIP;移動するには<style=GREET_TIP_INPUT>£0£</style>、<style=GREET_TIP_INPUT>£1£</style>、<style=GREET_TIP_INPUT>£2£</style>、<style=GREET_TIP_INPUT>£3£</style>キーを押す。\n<style=GREET_TIP_INPUT>£4£</style>キーで加速。\n<style=GREET_TIP_INPUT>£5£</style>、<style=GREET_TIP_INPUT>£6£</style>キーで左右に回転する。\n.<style=GREET_IMPORT>右クリック</style>で上下に回転する。\n<style=GREET_IMPORT>マウスホイール</style>で拡大・縮小する。(もしくは<style=GREET_TIP_INPUT>£7£</style>、<style=GREET_TIP_INPUT>£8£</style>キーを押す。)\n\n<style=GREET_TIP_INPUT>£9£</style>キーを押すと選択時の外枠表示を切り替える。;Pour vous déplacer ici, utilisez <style=GREET_TIP_INPUT>£0£</style>, <style=GREET_TIP_INPUT>£1£</style>, <style=GREET_TIP_INPUT>£2£</style> et <style=GREET_TIP_INPUT>£3£</style>.\n<style=GREET_TIP_INPUT>£4£</style> pour accélérer le mouvement. \n<style=GREET_TIP_INPUT>£5£</style> et <style=GREET_TIP_INPUT>£6£</style> pour pivoter à gauche et à droite.\n<style=GREET_IMPORT>CLIC DROIT</style> pour la rotation haut/bas.\nLa <style=GREET_IMPORT>MOLETTE</style> sert à zoomer et dézoomer (ainsi que <style=GREET_TIP_INPUT>£7£</style> et <style=GREET_TIP_INPUT>£8£</style>).\n\n<style=GREET_TIP_INPUT>£9£</style> affiche/masque le contour de sélection.;;;;;;;;;;
+HELP_CITYVIEW_Time_TITLE;時間;Heure;;;;;;;;;;
 HELP_CITYVIEW_Time_TEXT;You can choose weather conditions and time of day with which you want to play.\n\nStart by choosing whether you want to have dry or rainy weather by using the icons on the right hand side (<sprite=56> and <sprite=57>).\n\nIf you go for <sprite=57>, you will be able to choose between winter <sprite=58> or summer <sprite=59> light conditions and pick your favorite moment of day from dawn to dust, using the icons to the left hand side (<sprite=50> <sprite=51> <sprite=52> <sprite=53>);Vous pouvez modifier les conditions météorologiques et l'heure de la journée avec lesquelles vous souhaitez jouer.\n\nCommencez par choisir si vous préférez un temps sec ou pluvieux en utilisant les icones situées à droite (<sprite=56> et <sprite=57>).\n\nSi vous optez pour <sprite=57>, vous pourrez également choisir entre une lumière hivernale <sprite=58> ou estivale <sprite=59> puis le moment de la journée que vous préférez, du lever au coucher du soleil, avec les icones les plus à gauche (<sprite=50> <sprite=51> <sprite=52> <sprite=53>)\n\n;;;;;;;;;;
 HELP_CITYVIEW_Time_TIP;Graphic effects can alter performances and can be activated/deactivated in the settings menu (<sprite=71>).;Certains effets graphiques peuvent influer sur les performances du jeu et sont activables/désactivables dans les réglages (menu <sprite=71>).;;;;;;;;;;
-HELP_CITYVIEW_Photo_Mode_TITLE;Photo Mode (available soon);Mode Photo (bientôt disponible);;;;;;;;;;
+HELP_CITYVIEW_Photo_Mode_TITLE;フォトモード (近日公開);Mode Photo (bientôt disponible);;;;;;;;;;
 HELP_CITYVIEW_Photo_Mode_TEXT;Access photo mode to take amazing images of your creations and share them with friends and other players.;Accédez au mode photo du jeu pour réaliser et partager des clichés incroyables de vos créations grâce aux options graphiques et aux filtres disponibles.;;;;;;;;;;
-HELP_CITYVIEW_Navigation_TITLE;Navigation;Navigation;;;;;;;;;;
-HELP_CITYVIEW_Navigation_TEXT;Switch to <style=HELP_IMPORT>Strategic Map</style> by clicking <sprite=63>;Passez à la <style=HELP_IMPORT>Carte Stratégique</style> en cliquant sur <sprite=63>;;;;;;;;;;
-HELP_CITYVIEW_Navigation_TIP;Press <style=HELP_TIP_INPUT>£0£</style> to alternate between City View and Strategic Map.;La touche <style=HELP_TIP_INPUT>£0£</style> permet d'alterner entre Vue Ville et Carte Stratégique.;;;;;;;;;;
-HELP_CITYVIEW_Main_projects_TITLE;Main Projects;Projets Majeurs;;;;;;;;;;
+HELP_CITYVIEW_Navigation_TITLE;ナビゲーション;Navigation;;;;;;;;;;
+HELP_CITYVIEW_Navigation_TEXT;<sprite=63>をクリックすると<style=HELP_IMPORT>戦略マップ</style>に切り替えます。;Passez à la <style=HELP_IMPORT>Carte Stratégique</style> en cliquant sur <sprite=63>;;;;;;;;;;
+HELP_CITYVIEW_Navigation_TIP;<style=HELP_TIP_INPUT>£0£</style>を押すと、戦略マップとシティビューを切り替えます。;La touche <style=HELP_TIP_INPUT>£0£</style> permet d'alterner entre Vue Ville et Carte Stratégique.;;;;;;;;;;
+HELP_CITYVIEW_Main_projects_TITLE;メインプロジェクト;Projets Majeurs;;;;;;;;;;
 HELP_CITYVIEW_Main_projects_TEXT;Three large architectural projects (aka <style=HELP_IMPORT>Main Projects</style>) are awaiting to be built in this District. You get to choose which will be constructed!;Trois projets d'envergure (<style=HELP_IMPORT>Projets Majeurs</style>) attendent d'être construits dans ce Quartier. Vous pouvez choisir de lancer le chantier du projet majeur de votre choix.;;;;;;;;;;
 HELP_CITYVIEW_Main_projects_TIP;Click on the project of your choice to move the camera above the given block. Start construction in the window that opens on the right hand side of the screen.;Cliquez sur le projet de votre choix pour vous rendre directement au-dessus de l'îlot concerné. La fenêtre de droite vous permettra de lancer la construction du Projet Majeur.;;;;;;;;;;
-HELP_CITYVIEW_Landmarks_TITLE;Landmarks;Monuments;;;;;;;;;;
+HELP_CITYVIEW_Landmarks_TITLE;ランドマーク;Monuments;;;;;;;;;;
 HELP_CITYVIEW_Landmarks_TEXT;Each District harbors a set of <style=HELP_IMPORT>Landmarks</style> that are more or less famous. Because they are, for a lot of them, what makes the city what it is, they can't be modified.;Chaque Quartier abrite son lot de <style=HELP_IMPORT>Monuments</style> et de lieux emblématiques (plus ou moins célèbres). Ils sont, pour beaucoup, ce qui fait l'identité de la ville et ne peuvent donc pas être modifiés.;;;;;;;;;;
 HELP_CITYVIEW_Landmarks_TIP;The rule above knows a certain amount of exceptions that you will discover as you play.;La règle écrite ci-dessus connait quelques exceptions que vous découvrirez au fil du jeu.;;;;;;;;;;
 HELP_CITYVIEW_District_Info_TITLE;地区の情報;Informations Quartier;;;;;;;;;;
@@ -163,13 +163,13 @@ PLOT_EDITOR_ERROR_MESSAGE_16;Your segment comes too close to another segment.;Vo
 PLOT_EDITOR_ERROR_MESSAGE_17;Minimum angle not reached.;Angle minimal non atteint.;;;;;;;;;;
 PLOT_EDITOR_ERROR_MESSAGE_18;Intersection with a sub-plot detected.;Intersection avec une sous-parcelle détectée !;;;;;;;;;;
 PLOT_EDITOR_ERROR_MESSAGE_19;Minimum distance to sub-plot not reached.;Distance minimale avec la sous-parcelle non atteinte.;;;;;;;;;;
-DISTR_HIST_1;214エーカーのSaint-Germain-l'Auxerroisには、主に<b><color=#9ab1da>ルーブル美術館</color></b>、<b><color=#9ab1da>チュイルリー庭園</color></b>、<b><color=#9ab1da>パリ司法宮</color></b>に占められます。シテ島の先端と地区の西部に人口が集中しているのはそのためです。;Les 86,9 hectares du quartier Saint-Germain-l'Auxerrois sont majoritairement occupés par des Monuments (le <b><color=#9ab1da>Louvre</color></b>, le jardins des <b><color=#9ab1da>Tuileries</color></b> et le <b><color=#9ab1da>Palais de Justice</color></b>). Seules la pointe de l’île de la Cité et la zone la plus à l'ouest du Quartier habitées.;;;;;;;;;;
+DISTR_HIST_1;214エーカーのSaint-Germain-l'Auxerroisは、主に<b><color=#9ab1da>ルーブル美術館</color></b>、<b><color=#9ab1da>チュイルリー庭園</color></b>、<b><color=#9ab1da>パリ司法宮</color></b>で占められています。シテ島の先端と地区の西部に人口が集中しているのはそのためです。;Les 86,9 hectares du quartier Saint-Germain-l'Auxerrois sont majoritairement occupés par des Monuments (le <b><color=#9ab1da>Louvre</color></b>, le jardins des <b><color=#9ab1da>Tuileries</color></b> et le <b><color=#9ab1da>Palais de Justice</color></b>). Seules la pointe de l’île de la Cité et la zone la plus à l'ouest du Quartier habitées.;;;;;;;;;;
 DISTR_HIST_4;As an archetypal example of Jules Hardouin-Mansart’s classical French urbanism, the essence of this district is distilled in the square bearing its name, famous for its luxury boutiques and home to the French Justice Ministry (commonly referred to as <b><color=#9ab1da>Place Vendôme</color></b>).;Typique de l'urbanisme classique français imaginé par Jules Hardouin-Mansart, l'essentiel de ce quartier Place-Vendôme tient précisément dans la place du même nom, célèbre pour ses boutiques de luxe et pour abriter le ministère français de la Justice (appelé communément <b><color=#9ab1da>Place Vendôme</color></b>).;;;;;;;;;;
 DISTR_HIST_5;Covering 215 acres, Gaillon is Paris’ smallest district. And while in the 2000s, it is also one of the French capital’s least densely populated areas, this was not always the case. In 1860, Gaillon had ten times as many residents than at the start of the 21st century. ;Avec 18,8 hectares, Gaillon est le plus petit quartier de Paris. Et si, dans les années 2000, Gaillon faisait partie des quartiers les moins densément peuplés de la capitale française, ce ne fut pas toujours le cas. En 1860, il abritait 10 fois plus de résidents ! ;;;;;;;;;;
 DISTR_HIST_16;フランス首都の中心部に位置するノートルダム地区は、その名の通りヴィクトル・ユーゴーの小説で有名な<b><color=#9ab1da>大聖堂</color></b>にちなんで名付けられました。地区はシテ島の東部とサン=ルイ島全体で構成されています。;En plein coeur de la capitale française, le quartier <b><color=#9ab1da>Notre-Dame</color></b> tire évidemment son nom de la cathédrale (l'une des plus connues au monde) célébrée par Victor Hugo. Il comprend la partie Est de l'île de la Cité et la totalité de l'île Saint-Louis.;;;;;;;;;;
 DISTR_HIST_17;In the first century AD, Paris was known as Lutetia and Saint-Victor district boasted an amphitheater to which the Gallo-Roman inhabitants would flock: the <b><color=#9ab1da>Arènes de Lutèce</color></b>.;Au 1er siècle de notre ère, la ville s'appelait Lutèce et le quartier Saint-Victor possédait un amphithéâtre vers lequel affluait le public gallo-romain : les <b><color=#9ab1da>Arènes de Lutèce</color></b>.;;;;;;;;;;
 DISTR_HIST_18;Located in the 5th borough, this district surrounds the <b><color=#9ab1da>Garden of the Plants</color></b>, from which it gains its name. Several adjacent streets bear the names of naturalists from the Jardin du Roi (which has since become the <b><color=#9ab1da>National Museum of Natural History</color></b>).;Situé dans le 5e arrondissement, le quartier entoure le <b><color=#9ab1da>Jardin des Plantes</color></b>, dont il tire son nom. Plusieurs rues adjacentes portent les noms des naturalistes du Jardin du Roi (devenu le <b><color=#9ab1da>Museum d'Histoire naturelle</color></b>).;;;;;;;;;;
-DISTR_HIST_21;With a surface of around 71.6 acres, this district was named after the imposing building that has been sheltering the <b><color=#9ab1da>Monnaie de Paris</color></b> since 1775. The district is essentially composed with Haussmann style buildings.;D'une superficie d'un peu plus de 29 hectares, le quartier Monnaie tient son nom de l'imposant édifice abritant, depuis 1775, la <b><color=#9ab1da>Monnaie de Paris</color></b>, sur les quais de Seine. Le quartier est essentiellement composé d'immeubles de l'époque Haussmann.;;;;;;;;;;
+DISTR_HIST_21;この地区の面積はおよそ71.6エーカーであり、1775年以来<b><color=#9ab1da>パリ造幣局博物館</color></b>を擁する堂々とした建築物にちなんで名付けられました。この地区は基本的にオスマンスタイルの建築物で構成されています。;D'une superficie d'un peu plus de 29 hectares, le quartier Monnaie tient son nom de l'imposant édifice abritant, depuis 1775, la <b><color=#9ab1da>Monnaie de Paris</color></b>, sur les quais de Seine. Le quartier est essentiellement composé d'immeubles de l'époque Haussmann.;;;;;;;;;;
 DISTR_HIST_24;中世において、Saint-Germain-des-Présは村の<b><color=#9ab1da>修道院</color></b>に因んでその名前が付けられました。17世紀になると百科全書派や将来の革命家がカフェに集まり、20世紀には"Saint-Germain"はフランス文化の中心地となりました。;Au Moyen-Âge, ce n'était qu'un petit bourg autour de l'<b><color=#9ab1da>abbaye</color></b> du même nom. Au 17e siècle, ses cafés accueillaient les Encyclopédistes et les futurs révolutionnaires. C'est au 20e siècle que Saint-Germain-des-Prés est devenu le centre du monde culturel français, mêlant auteurs, musiciens de jazz et artistes de tous genres.;;;;;;;;;;
 DISTR_HIST_27;Apart from the landmark building that bears its name, the district of the Military School is also home to the <b><color=#9ab1da>Unesco House</color></b>. It also borders the <b><color=#9ab1da>Champ-de-Mars</color></b> at the end of which soars the <b><color=#9ab1da>Eiffel Tower</color></b>. And yet, these two monuments actually belong to the neighboring district (D28). ;Outre le bâtiment emblématique qui porte son nom, le quartier de l'Ecole-Militaire abrite également la <b><color=#9ab1da>Maison de l'Unesco</color></b>. Il borde, en outre, le <b><color=#9ab1da>Champ de Mars</color></b> à l'extrémité duquel s'élève la <b><color=#9ab1da>Tour Eiffel</color></b> bien que ces deux monuments appartiennent au quartier voisin (Q28). ;;;;;;;;;;
 DISTR_HIST_28;It is one of the world’s most-visited tourist areas, and yet its administrative name is largely unknown by the general public and indeed, by most Parisians. The district that is home to the <b><color=#9ab1da>Eiffel Tower</color></b> is named... Big Rock (Gros-Caillou)!;C'est l'un des lieux les plus touristiques du monde, pourtant son nom administratif est inconnu du grand public et de la plupart des Parisiens. Le quartier qui abrite la <b><color=#9ab1da>Tour Eiffel</color></b> s'appelle Gros-Caillou !;;;;;;;;;;
@@ -499,22 +499,22 @@ TIP_BUBBLE_DESIGNLIBRARY_ShowDesign_People;People;Social;;;;;;;;;;
 TIP_BUBBLE_DESIGNLIBRARY_ShowDesign_Planet;Planet;Écologie;;;;;;;;;;
 TIP_BUBBLE_DESIGNLIBRARY_ShowDesign_Profit;Profit;Économie;;;;;;;;;;
 TIP_BUBBLE_DESIGNLIBRARY_ShowDesign_MakeFave;Favorite;Favori;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_PlotEditor_Access;Plot Editor Mode;Éditeur de Parcelles;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Builder_Access;Builder Mode;Mode Construction;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Switch Mode_Construction;Build;Construire;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_SwitchMode_Destruction;Demolish;Démolir;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Type_All;All;Tous;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Type_Buildings;Buildings;Bâtiments;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Type_Parks;Parks;Parcs;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Type_Plazas;Plazas;Places;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Type_Parkings;Parking Lots;Parkings;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_PlotEditor_Access;プロットエディタモード;Éditeur de Parcelles;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Builder_Access;ビルダーモード;Mode Construction;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Switch Mode_Construction;建築;Construire;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_SwitchMode_Destruction;解体;Démolir;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Type_All;全て;Tous;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Type_Buildings;建築物;Bâtiments;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Type_Parks;公園;Parcs;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Type_Plazas;広場;Places;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Type_Parkings;駐車場;Parkings;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Type_Favorites;Favorites;Favoris;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Type_Recent;Recent;Récents;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Reset_Plot;Reset Plot;Réinitialiser la Parcelle;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Reset_Block;Reset Block;Réinitialiser l'Îlot;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Reset_Block;ブロックをリセット;Réinitialiser l'Îlot;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Select_All;全て選択;Tout sélectionner;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Demolish_All;Demolish All;Tout démolir;;;;;;;;;;
-TIP_BUBBLE_DRAWINGBOARD_Validate_Project;City View;Vue Ville;;;;;;;;;;
+TIP_BUBBLE_DRAWINGBOARD_Validate_Project;シティビュー;Vue Ville;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_DesignFilter_Neutral;Neutral;Neutre;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_DesignFilter_People;People;Social;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_DesignFilter_Planet;Planet;Écologie;;;;;;;;;;
@@ -550,10 +550,10 @@ TIP_BUBBLE_DRAWINGBOARD_Grammar_OrderedVertic;Ordered Vertical;Verticale Ordonn�
 TIP_BUBBLE_DRAWINGBOARD_Grammar_RandomVertic;Random Vertical;Verticale Aléatoire;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Grammar_OrderedHoriz;Ordered Horizontal;Horizontale Ordonnée;;;;;;;;;;
 TIP_BUBBLE_DRAWINGBOARD_Grammar_RandomHoriz;Random Horizontal;Horizontale Aléatoire;;;;;;;;;;
-TIP_BUBBLE_PLOTEDITOR_NavBar_MergeAll;Merge All;Tout Fusionner;;;;;;;;;;
-TIP_BUBBLE_PLOTEDITOR_NavBar_Undo;Undo;Annuler;;;;;;;;;;
-TIP_BUBBLE_PLOTEDITOR_NavBar_ResetBlock;Reset Block;Réinitialiser l'Îlot;;;;;;;;;;
-TIP_BUBBLE_PLOTEDITOR_NavBar_Redo;Redo;Rétablir;;;;;;;;;;
+TIP_BUBBLE_PLOTEDITOR_NavBar_MergeAll;全て統合;Tout Fusionner;;;;;;;;;;
+TIP_BUBBLE_PLOTEDITOR_NavBar_Undo;元に戻す;Annuler;;;;;;;;;;
+TIP_BUBBLE_PLOTEDITOR_NavBar_ResetBlock;ブロックをリセット;Réinitialiser l'Îlot;;;;;;;;;;
+TIP_BUBBLE_PLOTEDITOR_NavBar_Redo;やり直す;Rétablir;;;;;;;;;;
 TIP_BUBBLE_PLOTEDITOR_NavBar_EditAll;Edit All;Tout Éditer;;;;;;;;;;
 TIP_BUBBLE_PLOTEDITOR_Mode_Draw;Draw;Dessin;;;;;;;;;;
 TIP_BUBBLE_PLOTEDITOR_Mode_Merge;Merge;Fusion;;;;;;;;;;
@@ -720,10 +720,10 @@ UI_TEXT_175;Apply a Filter;Appliquer un Filtre;Filter anwenden;Aplica un filtro;
 UI_TEXT_176;D.£0£;Q.£0£;Viertel £0£;B.£0£;£0£区;Кв. £0£;;S. £0£;;D.£0£;Q. £0£;規劃區 £0£
 UI_TEXT_177;Plot £0£;Parcelle £0£;Parzelle £0£;Parcela £0£;£0£小块土地;Зона £0£;;Terreno £0£;;Działka £0£;Lotto £0£;土地 £0£
 UI_TEXT_178;Block £0£;Îlot £0£;Block £0£;Manzana £0£;£0£街区;Участок £0£;;Bairro £0£;;Strefa £0£;Isolato £0£;街區 £0£
-UI_TEXT_179;Type;Type;Art;Tipo;类型;Тип;;Tipo;;Rodzaj;Tipo;類型
-UI_TEXT_180;Buildings;Bâtiments;Gebäude;Edificios;建筑;Строения;;Edifícios;;Budynki;Edifici;建築
-UI_TEXT_181;Parks;Parcs;Parks;Parques;公园;Парки;;Parques;;Parki;Parchi;公園
-UI_TEXT_182;Plazas;Places;Plätze;Plazas;广场;Площади;;Praças;;Place;Piazze;廣場
+UI_TEXT_179;タイプ;Type;Art;Tipo;类型;Тип;;Tipo;;Rodzaj;Tipo;類型
+UI_TEXT_180;建築物;Bâtiments;Gebäude;Edificios;建筑;Строения;;Edifícios;;Budynki;Edifici;建築
+UI_TEXT_181;公園;Parcs;Parks;Parques;公园;Парки;;Parques;;Parki;Parchi;公園
+UI_TEXT_182;広場;Places;Plätze;Plazas;广场;Площади;;Praças;;Place;Piazze;廣場
 UI_TEXT_183;Vacant Land;Terrain vague;Ödland;Descampado;荒地;Пустырь;;Terreno baldio;;Nieużytek;Area deserta;荒地
 UI_TEXT_184;Condition;État;Zustand;Estado;状态;Состояние;;Condição;;Stan;Condizione;狀況
 UI_TEXT_185;Neutral;Neutre;Neutral;Neutral;中立;Нейтральный;;Neutro;;Neutralny;Neutro;中間值
@@ -1294,22 +1294,22 @@ UI_TEXT_732;マテリアルの品質;Qualité des matériaux;;;;;;;;;;
 UI_TEXT_733;You are about to reset this block to the state it was in when you opened the Drawing Board.;Vous allez remettre cet îlot dans son état à l'ouverture de la Table à Dessin.;;;;;;;;;;
 UI_TEXT_734;You will be able to edit all plots of this block (and therefore potentially destroy everything on these plots).;Vous allez pouvoir éditer toutes les parcelles de cet îlot (et donc potentiellement détruire ce qui se trouve dessus).;;;;;;;;;;
 UI_TEXT_735;You need to validate or cancel your current project before you can save your game!;Vous ne pouvez pas sauvegarder votre partie avant d'avoir validé ou annulé votre projet en cours !;;;;;;;;;;
-UI_TEXT_736;modified blocks;Îlots modifiés;;;;;;;;;;
-UI_TEXT_737;square meters built;mètres carrés construits;;;;;;;;;;
-UI_TEXT_738;avg. impact per block;d'impact moyen par îlot;;;;;;;;;;
+UI_TEXT_736;編集したブロック;Îlots modifiés;;;;;;;;;;
+UI_TEXT_737;建築物の面積;mètres carrés construits;;;;;;;;;;
+UI_TEXT_738;ブロックあたりの影響の平均;d'impact moyen par îlot;;;;;;;;;;
 UI_TEXT_739;Hello, {£0£}!\n\nYou are now all set to start working in the\nCity of Lights! \nYou will be able to stamp your own\nimprint on this iconic city!\n\nFirst, please choose one or several\navailable Districts in the map\nand click on <sprite=0>.;Bonjour, {£0£} !\n\nVous voilà installé dans la Ville Lumière ! \nVous allez pouvoir apposer votre empreinte \nsur cette ville iconique !\n\nPour commencer, choisissez un ou plusieurs quartiers disponibles dans la carte\npuis cliquez sur <sprite=0>.;;;;;;;;;;
 UI_TEXT_740;inhabitant/m²;habitants/m²;;;;;;;;;;
 UI_TEXT_741;max floors;étages max;;;;;;;;;;
 UI_TEXT_742;First apparition;Première apparition;;;;;;;;;;
 UI_TEXT_743;Move up;Déplacer haut;;;;;;;;;;
 UI_TEXT_744;Move down;Déplacer bas;;;;;;;;;;
-UI_TEXT_745;Summary;Résumé;;;;;;;;;;
-UI_TEXT_746;Description;Description;;;;;;;;;;
+UI_TEXT_745;概要;Résumé;;;;;;;;;;
+UI_TEXT_746;説明;Description;;;;;;;;;;
 UI_TEXT_747;バグ;Bug;;;;;;;;;;
-UI_TEXT_748;Performance issue;Problème de performances;;;;;;;;;;
+UI_TEXT_748;パフォーマンスの問題;Problème de performances;;;;;;;;;;
 UI_TEXT_749;提案;Suggestion;;;;;;;;;;
 UI_TEXT_750;Mergeable plots;Parcelles fusionables ;;;;;;;;;;
-UI_TEXT_751;You are about to leave\nthe Drawing Board.\nDo you want to build your project?;Vous allez quitter la Table à Dessin.\nSouhaitez-vous construire votre projet ?;;;;;;;;;;
+UI_TEXT_751;製図板を離れようとしています。\nこのプロジェクトを反映しますか?;Vous allez quitter la Table à Dessin.\nSouhaitez-vous construire votre projet ?;;;;;;;;;;
 UI_TEXT_752;You can't save your game before you opening your first District!;Vous ne pouvez pas sauvegarder avant d'avoir ouvert un premier Quartier.;;;;;;;;;;
 UI_TEXT_753;このセーブデータを上書きしますか?;Êtes-vous sûr de vouloir écraser cette sauvegarde ?;;;;;;;;;;
 UI_TEXT_754;このセーブデータを削除しますか?;Êtes-vous sûr de vouloir supprimer cette sauvegarde ?;;;;;;;;;;
