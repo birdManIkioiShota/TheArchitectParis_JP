@@ -14226,7 +14226,7 @@ ENODO GAMES, The Architect: Paris sono TRADEMARKS, SERVICES MARKS, o REGISTERED 
     <fr>￡0￡ ?</fr>
     <de>￡0￡??</de>
     <es-ES>￡0￡ ?</es-ES>
-    <zh-CN>£0£ ?</zh-CN>
+    <zh-CN>£0£ EUR</zh-CN>
     <ru>￡0￡ ?</ru>
     <pt-BR>￡0￡ ?</pt-BR>
     <pl>￡0￡ EUR</pl>
@@ -18819,7 +18819,7 @@ Nel frattempo, ecco un\'anteprima: tre tipici progetti, liberi per essere provat
     <en-US>Ongoing Projects</en-US>
     <fr>Projets en cours</fr>
     <de>Aktuelle Projekte</de>
-    <zh-CN>進行中のプロジェクト</zh-CN>
+    <zh-CN>進行中</zh-CN>
     <ru>Текущие Проекты</ru>
     <it>Progetti in corso</it>
   </string>
@@ -18835,7 +18835,7 @@ Nel frattempo, ecco un\'anteprima: tre tipici progetti, liberi per essere provat
     <en-US>Completed Projects</en-US>
     <fr>Projets completes</fr>
     <de>Fertiggestellte Projekte</de>
-    <zh-CN>完了したプロジェクト</zh-CN>
+    <zh-CN>完了済み</zh-CN>
     <ru>Завершенные проекты</ru>
     <it>Progetti completati</it>
   </string>
@@ -18843,7 +18843,7 @@ Nel frattempo, ecco un\'anteprima: tre tipici progetti, liberi per essere provat
     <en-US>Unlocked Projects</en-US>
     <fr>Projets debloques</fr>
     <de>Freischaltete Projekte</de>
-    <zh-CN>開放済みプロジェクト</zh-CN>
+    <zh-CN>開放済み</zh-CN>
     <ru>Разблокированные Проекты</ru>
     <it>Progetti sbloccati</it>
   </string>
@@ -18913,7 +18913,7 @@ di abitanti</it>
     <en-US>The Homeless</en-US>
     <fr>SDF</fr>
     <de>Die Obdachlosen</de>
-    <zh-CN>ホームレス人口</zh-CN>
+    <zh-CN>ホームレス数</zh-CN>
     <ru>Бездомных</ru>
     <it>Senzatetto</it>
   </string>
